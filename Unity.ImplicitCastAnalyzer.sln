@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ImplicitCastAnalyzer", "Unity.ImplicitCastAnalyzer\Unity.ImplicitCastAnalyzer.csproj", "{145FD40A-8BF7-44BE-9E7D-F52619C60D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ImplicitCastAnalyzer.Sample", "Unity.ImplicitCastAnalyzer.Sample\Unity.ImplicitCastAnalyzer.Sample.csproj", "{FDECA2AB-86A4-4FE5-A2B0-B17413C37D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145FD40A-8BF7-44BE-9E7D-F52619C60D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145FD40A-8BF7-44BE-9E7D-F52619C60D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145FD40A-8BF7-44BE-9E7D-F52619C60D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145FD40A-8BF7-44BE-9E7D-F52619C60D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDECA2AB-86A4-4FE5-A2B0-B17413C37D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDECA2AB-86A4-4FE5-A2B0-B17413C37D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDECA2AB-86A4-4FE5-A2B0-B17413C37D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDECA2AB-86A4-4FE5-A2B0-B17413C37D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
