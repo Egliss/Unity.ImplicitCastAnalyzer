@@ -5,3 +5,8 @@ bin/
 obj/
 Debug/
 Release/
+
+Library/
+Logs/
+Temp/
+UserSettings/
